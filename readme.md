@@ -4,7 +4,7 @@
 - My name is Linas. I'm from Vilnius, Lithuania.
 - I'm currently teaching myself to become a full stack developer
 - I'm currently at the last steps of the awesome [The Odin project](https://www.theodinproject.com/paths/foundations/courses/foundations) (Foundation)
-- You can connect with me via [LinkedIn](linkedin.com/in/linas-paulauskas-559631197)
+- You can connect with me via [LinkedIn](linkedin.com/in/LinasPaulauskas)
 
 ## Technologies
 ### Technologies I already use:
